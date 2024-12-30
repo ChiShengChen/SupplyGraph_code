@@ -1,0 +1,200 @@
+Epoch 1/50
+  Train Loss: 37017.1685, Train MSE: 37017.1685, Train MAE: 151.0051
+  Val Loss: 9426.8281, Val MSE: 9426.8281, Val MAE: 85.0797, Val R?: -inf
+
+Epoch 2/50
+  Train Loss: 9029.3010, Train MSE: 9029.3010, Train MAE: 74.9409
+  Val Loss: 3231.6431, Val MSE: 3231.6431, Val MAE: 48.2139, Val R?: -inf
+
+Epoch 3/50
+  Train Loss: 3283.2365, Train MSE: 3283.2365, Train MAE: 45.6165
+  Val Loss: 1514.7060, Val MSE: 1514.7060, Val MAE: 29.8954, Val R?: -inf
+
+Epoch 4/50
+  Train Loss: 2070.6978, Train MSE: 2070.6978, Train MAE: 35.6536
+  Val Loss: 1702.9554, Val MSE: 1702.9554, Val MAE: 31.1990, Val R?: -inf
+
+Epoch 5/50
+  Train Loss: 1296.1463, Train MSE: 1296.1463, Train MAE: 28.4163
+  Val Loss: 926.6797, Val MSE: 926.6797, Val MAE: 25.1633, Val R?: -inf
+
+Epoch 6/50
+  Train Loss: 1024.3429, Train MSE: 1024.3429, Train MAE: 23.9681
+  Val Loss: 818.9049, Val MSE: 818.9049, Val MAE: 22.2292, Val R?: -inf
+
+Epoch 7/50
+  Train Loss: 837.4838, Train MSE: 837.4838, Train MAE: 23.1457
+  Val Loss: 491.3604, Val MSE: 491.3604, Val MAE: 17.7456, Val R?: -inf
+
+Epoch 8/50
+  Train Loss: 543.2853, Train MSE: 543.2853, Train MAE: 17.7631
+  Val Loss: 621.0258, Val MSE: 621.0258, Val MAE: 19.2064, Val R?: -inf
+
+Epoch 9/50
+  Train Loss: 545.2806, Train MSE: 545.2806, Train MAE: 17.8929
+  Val Loss: 417.8723, Val MSE: 417.8723, Val MAE: 16.6015, Val R?: -inf
+
+Epoch 10/50
+  Train Loss: 454.1626, Train MSE: 454.1626, Train MAE: 16.2789
+  Val Loss: 389.0772, Val MSE: 389.0772, Val MAE: 14.9209, Val R?: -inf
+
+Epoch 11/50
+  Train Loss: 359.0331, Train MSE: 359.0331, Train MAE: 14.1691
+  Val Loss: 275.3679, Val MSE: 275.3679, Val MAE: 13.4241, Val R?: -inf
+
+Epoch 12/50
+  Train Loss: 265.1794, Train MSE: 265.1794, Train MAE: 12.6085
+  Val Loss: 267.4259, Val MSE: 267.4259, Val MAE: 12.1795, Val R?: -inf
+
+Epoch 13/50
+  Train Loss: 252.5569, Train MSE: 252.5569, Train MAE: 11.9559
+  Val Loss: 223.5619, Val MSE: 223.5619, Val MAE: 11.4495, Val R?: -inf
+
+Epoch 14/50
+  Train Loss: 200.9676, Train MSE: 200.9676, Train MAE: 10.8152
+  Val Loss: 212.8205, Val MSE: 212.8205, Val MAE: 11.4866, Val R?: -inf
+
+Epoch 15/50
+  Train Loss: 168.3472, Train MSE: 168.3472, Train MAE: 9.9547
+  Val Loss: 217.3201, Val MSE: 217.3201, Val MAE: 11.2378, Val R?: -inf
+
+Epoch 16/50
+  Train Loss: 154.4356, Train MSE: 154.4356, Train MAE: 9.5150
+  Val Loss: 197.3448, Val MSE: 197.3448, Val MAE: 11.0046, Val R?: -inf
+
+Epoch 17/50
+  Train Loss: 129.8944, Train MSE: 129.8944, Train MAE: 8.7486
+  Val Loss: 185.3032, Val MSE: 185.3032, Val MAE: 10.4345, Val R?: -inf
+
+Epoch 18/50
+  Train Loss: 113.1909, Train MSE: 113.1909, Train MAE: 8.0972
+  Val Loss: 176.4112, Val MSE: 176.4112, Val MAE: 10.3817, Val R?: -inf
+
+Epoch 19/50
+  Train Loss: 132.8039, Train MSE: 132.8039, Train MAE: 8.9568
+  Val Loss: 203.7781, Val MSE: 203.7781, Val MAE: 10.6075, Val R?: -inf
+
+Epoch 20/50
+  Train Loss: 128.3400, Train MSE: 128.3400, Train MAE: 8.7652
+  Val Loss: 179.8257, Val MSE: 179.8257, Val MAE: 10.4095, Val R?: -inf
+
+Epoch 21/50
+  Train Loss: 122.9670, Train MSE: 122.9670, Train MAE: 8.5280
+  Val Loss: 159.4716, Val MSE: 159.4716, Val MAE: 9.7628, Val R?: -inf
+
+Epoch 22/50
+  Train Loss: 103.4323, Train MSE: 103.4323, Train MAE: 7.6310
+  Val Loss: 170.3345, Val MSE: 170.3345, Val MAE: 9.6991, Val R?: -inf
+
+Epoch 23/50
+  Train Loss: 108.7493, Train MSE: 108.7493, Train MAE: 7.8680
+  Val Loss: 184.5442, Val MSE: 184.5442, Val MAE: 10.7441, Val R?: -inf
+
+Epoch 24/50
+  Train Loss: 111.3283, Train MSE: 111.3283, Train MAE: 8.3359
+  Val Loss: 159.0755, Val MSE: 159.0755, Val MAE: 9.6041, Val R?: -inf
+
+Epoch 25/50
+  Train Loss: 84.6898, Train MSE: 84.6898, Train MAE: 7.2786
+  Val Loss: 154.9670, Val MSE: 154.9670, Val MAE: 9.7031, Val R?: -inf
+
+Epoch 26/50
+  Train Loss: 69.9123, Train MSE: 69.9123, Train MAE: 6.4085
+  Val Loss: 151.5562, Val MSE: 151.5562, Val MAE: 9.6974, Val R?: -inf
+
+Epoch 27/50
+  Train Loss: 70.6407, Train MSE: 70.6407, Train MAE: 6.5176
+  Val Loss: 156.1673, Val MSE: 156.1673, Val MAE: 9.3414, Val R?: -inf
+
+Epoch 28/50
+  Train Loss: 71.4961, Train MSE: 71.4961, Train MAE: 6.4262
+  Val Loss: 142.2133, Val MSE: 142.2133, Val MAE: 9.1293, Val R?: -inf
+
+Epoch 29/50
+  Train Loss: 72.8733, Train MSE: 72.8733, Train MAE: 6.6259
+  Val Loss: 151.0212, Val MSE: 151.0212, Val MAE: 9.7293, Val R?: -inf
+
+Epoch 30/50
+  Train Loss: 63.8444, Train MSE: 63.8444, Train MAE: 6.2607
+  Val Loss: 143.5134, Val MSE: 143.5134, Val MAE: 9.3868, Val R?: -inf
+
+Epoch 31/50
+  Train Loss: 52.6155, Train MSE: 52.6155, Train MAE: 5.7226
+  Val Loss: 145.0817, Val MSE: 145.0817, Val MAE: 9.2336, Val R?: -inf
+
+Epoch 32/50
+  Train Loss: 47.3868, Train MSE: 47.3868, Train MAE: 5.3806
+  Val Loss: 139.2742, Val MSE: 139.2742, Val MAE: 9.5479, Val R?: -inf
+
+Epoch 33/50
+  Train Loss: 42.1421, Train MSE: 42.1421, Train MAE: 5.1262
+  Val Loss: 142.3559, Val MSE: 142.3559, Val MAE: 9.2785, Val R?: -inf
+
+Epoch 34/50
+  Train Loss: 58.3239, Train MSE: 58.3239, Train MAE: 5.7540
+  Val Loss: 135.2873, Val MSE: 135.2873, Val MAE: 9.2847, Val R?: -inf
+
+Epoch 35/50
+  Train Loss: 50.0787, Train MSE: 50.0787, Train MAE: 5.4788
+  Val Loss: 130.7467, Val MSE: 130.7467, Val MAE: 9.0923, Val R?: -inf
+
+Epoch 36/50
+  Train Loss: 48.8722, Train MSE: 48.8722, Train MAE: 5.4097
+  Val Loss: 132.3885, Val MSE: 132.3885, Val MAE: 8.9198, Val R?: -inf
+
+Epoch 37/50
+  Train Loss: 41.6678, Train MSE: 41.6678, Train MAE: 5.1168
+  Val Loss: 134.4076, Val MSE: 134.4076, Val MAE: 8.9815, Val R?: -inf
+
+Epoch 38/50
+  Train Loss: 36.6117, Train MSE: 36.6117, Train MAE: 4.5739
+  Val Loss: 147.6061, Val MSE: 147.6061, Val MAE: 9.6751, Val R?: -inf
+
+Epoch 39/50
+  Train Loss: 50.8322, Train MSE: 50.8322, Train MAE: 5.7082
+  Val Loss: 130.1335, Val MSE: 130.1335, Val MAE: 8.8963, Val R?: -inf
+
+Epoch 40/50
+  Train Loss: 36.8537, Train MSE: 36.8537, Train MAE: 4.5854
+  Val Loss: 137.8787, Val MSE: 137.8787, Val MAE: 8.9086, Val R?: -inf
+
+Epoch 41/50
+  Train Loss: 34.3583, Train MSE: 34.3583, Train MAE: 4.4193
+  Val Loss: 126.9265, Val MSE: 126.9265, Val MAE: 8.9159, Val R?: -inf
+
+Epoch 42/50
+  Train Loss: 30.2046, Train MSE: 30.2046, Train MAE: 4.1859
+  Val Loss: 129.6553, Val MSE: 129.6553, Val MAE: 9.0541, Val R?: -inf
+
+Epoch 43/50
+  Train Loss: 25.7648, Train MSE: 25.7648, Train MAE: 3.9195
+  Val Loss: 129.8345, Val MSE: 129.8345, Val MAE: 8.9420, Val R?: -inf
+
+Epoch 44/50
+  Train Loss: 26.0884, Train MSE: 26.0884, Train MAE: 3.8784
+  Val Loss: 128.0103, Val MSE: 128.0103, Val MAE: 9.0031, Val R?: -inf
+
+Epoch 45/50
+  Train Loss: 23.6286, Train MSE: 23.6286, Train MAE: 3.7362
+  Val Loss: 125.8146, Val MSE: 125.8146, Val MAE: 8.8460, Val R?: -inf
+
+Epoch 46/50
+  Train Loss: 22.6274, Train MSE: 22.6274, Train MAE: 3.6607
+  Val Loss: 124.8772, Val MSE: 124.8772, Val MAE: 8.6671, Val R?: -inf
+
+Epoch 47/50
+  Train Loss: 23.9554, Train MSE: 23.9554, Train MAE: 3.7508
+  Val Loss: 123.9874, Val MSE: 123.9874, Val MAE: 8.7179, Val R?: -inf
+
+Epoch 48/50
+  Train Loss: 23.4943, Train MSE: 23.4943, Train MAE: 3.8122
+  Val Loss: 122.7114, Val MSE: 122.7114, Val MAE: 8.6245, Val R?: -inf
+
+Epoch 49/50
+  Train Loss: 26.3373, Train MSE: 26.3373, Train MAE: 3.9324
+  Val Loss: 121.3431, Val MSE: 121.3431, Val MAE: 8.5535, Val R?: -inf
+
+Epoch 50/50
+  Train Loss: 21.4660, Train MSE: 21.4660, Train MAE: 3.5893
+  Val Loss: 130.7977, Val MSE: 130.7977, Val MAE: 8.6212, Val R?: -inf
+
