@@ -14,7 +14,7 @@ class TemporalDataset(Dataset):
             raise ValueError(f"Target column '{target_column}' not found in the DataFrame.")
         
         # Ensure target column is numeric
-        data[target_column] = pd.to_numeric(data[target_column], errors='coerce')
+        # data[target_column] = pd.to_numeric(data[target_column], errors='coerce')
         
         # Drop rows with missing values in the target column
         data.dropna(subset=[target_column], inplace=True)
@@ -70,8 +70,15 @@ class DataHandler:
         data.reset_index(inplace=True)
         return data
 
+    def save_to_csv(self, data, output_path):
+        # Save the processed data to a CSV file
+        data.to_csv(output_path, index=False)
+        print(f"Data saved to {output_path}")
+
     def prepare_dataloaders(self):
         data = self.load_data()
+
+        # self.save_to_csv(data, "/home/meow/SupplyGraph/RawDataset/Homogenoeus/processed_data.csv")
 
         # Split the dataset into train, validation, and test sets
         train_size = int(len(data) * self.train_ratio)
