@@ -17,7 +17,9 @@ class TemporalDataset(Dataset):
         # data[target_column] = pd.to_numeric(data[target_column], errors='coerce')
         
         # Drop rows with missing values in the target column
-        data.dropna(subset=[target_column], inplace=True)
+        # data.dropna(subset=[target_column], inplace=True)
+        data = data.dropna(subset=[target_column])
+
         
         # Keep only numeric columns for features
         self.data = data.select_dtypes(include=[np.number])
