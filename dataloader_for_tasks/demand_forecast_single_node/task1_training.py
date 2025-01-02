@@ -50,14 +50,14 @@ for target_column in headers:
     # MLP Model
     mlp_model = MLPModel(input_size=window_size * 164, hidden_size=64, output_size=1)
     optimizer = optim.Adam(mlp_model.parameters(), lr=0.001)
-    train_model(mlp_model, train_loader, val_loader, optimizer, criterion, num_epochs, target_column, "mlp")
+    train_model(mlp_model, train_loader, val_loader, test_loader, optimizer, criterion, num_epochs, target_column, "mlp")
 
     # GNN Model
     num_nodes = 164 * window_size # 164 nodes
     adjacency_matrix = torch.eye(num_nodes)  # Identity matrix for window_size=5
     gnn_model = GNNModel(164 * window_size, hidden_size, output_size)
     optimizer_gnn = optim.Adam(gnn_model.parameters(), lr=0.001)
-    train_gnn_model(gnn_model, train_loader, val_loader, optimizer_gnn, criterion, num_epochs, target_column, "gnn", adjacency_matrix)
+    train_gnn_model(gnn_model, train_loader, val_loader, test_loader, optimizer_gnn, criterion, num_epochs, target_column, "gnn", adjacency_matrix)
 
 
     # # GCN Model
@@ -65,7 +65,7 @@ for target_column in headers:
     gcn_model = GCNModel(164 * window_size, hidden_size, output_size)
     adjacency_matrix = torch.eye(num_nodes)  # Dummy adjacency matrix for single node
     optimizer_gcn = optim.Adam(gcn_model.parameters(), lr=0.001)
-    train_gnn_model(gcn_model, train_loader, val_loader, optimizer_gcn, criterion, num_epochs, target_column, "gcn", adjacency_matrix)
+    train_gnn_model(gcn_model, train_loader, val_loader, test_loader, optimizer_gcn, criterion, num_epochs, target_column, "gcn", adjacency_matrix)
 
     print(f"Training complete for target column: {target_column}\n")
 
