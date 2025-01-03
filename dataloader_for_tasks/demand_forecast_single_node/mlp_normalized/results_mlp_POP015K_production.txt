@@ -1,0 +1,304 @@
+Epoch 1/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 2/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 3/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 4/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 5/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 6/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 7/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 8/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 9/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 10/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 11/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 12/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 13/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 14/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 15/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 16/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 17/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 18/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 19/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 20/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 21/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 22/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 23/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 24/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 25/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 26/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 27/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 28/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 29/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 30/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 31/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 32/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 33/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 34/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 35/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 36/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 37/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 38/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 39/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 40/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 41/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 42/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 43/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 44/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 45/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 46/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 47/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 48/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 49/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Epoch 50/50
+  Train Loss: nan, Train MSE: nan, Train MAE: nan
+  Val Loss: nan
+  Val MSE (Normalized): nan, Val MAE (Normalized): nan
+  Val MSE (Denormalized): nan, Val MAE (Denormalized): nan, Val R?: nan
+
+Test Results
+  Test Loss: nan
+  Test MSE (Normalized): nan, Test MAE (Normalized): nan
+  Test MSE (Denormalized): nan, Test MAE (Denormalized): nan
