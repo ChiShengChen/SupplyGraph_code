@@ -1,0 +1,254 @@
+Epoch 1/50
+  Train Loss: 57106.2242, Train MSE: 57106.2242, Train MAE: 183.2354
+  Val Loss: 7710.9058, Val MSE (Normalized): 7710.9058, Val MAE (Normalized): 72.9123
+  Val MSE (Denormalized): 316826468352.0000, Val MAE (Denormalized): 467368.0781, Val R?: -12094875.0000
+
+Epoch 2/50
+  Train Loss: 7446.2633, Train MSE: 7446.2633, Train MAE: 68.7938
+  Val Loss: 954.5377, Val MSE (Normalized): 954.5377, Val MAE (Normalized): 24.2669
+  Val MSE (Denormalized): 39220142080.0000, Val MAE (Denormalized): 155551.0469, Val R?: -1370024.6250
+
+Epoch 3/50
+  Train Loss: 3019.3773, Train MSE: 3019.3773, Train MAE: 43.9802
+  Val Loss: 423.9391, Val MSE (Normalized): 423.9391, Val MAE (Normalized): 15.6382
+  Val MSE (Denormalized): 17418852352.0000, Val MAE (Denormalized): 100240.7812, Val R?: -645224.0625
+
+Epoch 4/50
+  Train Loss: 1307.5488, Train MSE: 1307.5488, Train MAE: 28.5293
+  Val Loss: 204.8252, Val MSE (Normalized): 204.8252, Val MAE (Normalized): 11.0327
+  Val MSE (Denormalized): 8415877632.0000, Val MAE (Denormalized): 70719.4316, Val R?: -361544.7812
+
+Epoch 5/50
+  Train Loss: 911.5266, Train MSE: 911.5266, Train MAE: 24.0365
+  Val Loss: 314.9978, Val MSE (Normalized): 314.9978, Val MAE (Normalized): 14.3295
+  Val MSE (Denormalized): 12942663168.0000, Val MAE (Denormalized): 91851.9609, Val R?: -386134.7188
+
+Epoch 6/50
+  Train Loss: 557.6923, Train MSE: 557.6923, Train MAE: 19.1745
+  Val Loss: 295.3897, Val MSE (Normalized): 295.3897, Val MAE (Normalized): 13.4718
+  Val MSE (Denormalized): 12137001472.0000, Val MAE (Denormalized): 86354.5547, Val R?: -415987.2812
+
+Epoch 7/50
+  Train Loss: 448.9046, Train MSE: 448.9046, Train MAE: 15.8720
+  Val Loss: 281.9590, Val MSE (Normalized): 281.9590, Val MAE (Normalized): 14.3061
+  Val MSE (Denormalized): 11585159680.0000, Val MAE (Denormalized): 91701.8672, Val R?: -393404.4062
+
+Epoch 8/50
+  Train Loss: 296.1357, Train MSE: 296.1357, Train MAE: 14.0321
+  Val Loss: 221.3555, Val MSE (Normalized): 221.3555, Val MAE (Normalized): 12.1990
+  Val MSE (Denormalized): 9095075840.0000, Val MAE (Denormalized): 78195.7891, Val R?: -354041.0312
+
+Epoch 9/50
+  Train Loss: 276.2191, Train MSE: 276.2191, Train MAE: 13.1759
+  Val Loss: 229.7115, Val MSE (Normalized): 229.7115, Val MAE (Normalized): 12.4671
+  Val MSE (Denormalized): 9438410752.0000, Val MAE (Denormalized): 79913.9023, Val R?: -346730.5938
+
+Epoch 10/50
+  Train Loss: 256.6101, Train MSE: 256.6101, Train MAE: 12.7524
+  Val Loss: 202.4220, Val MSE (Normalized): 202.4220, Val MAE (Normalized): 11.7652
+  Val MSE (Denormalized): 8317133568.0000, Val MAE (Denormalized): 75414.7070, Val R?: -309474.1875
+
+Epoch 11/50
+  Train Loss: 260.0729, Train MSE: 260.0729, Train MAE: 12.6422
+  Val Loss: 143.5042, Val MSE (Normalized): 143.5042, Val MAE (Normalized): 8.9223
+  Val MSE (Denormalized): 5896316800.0000, Val MAE (Denormalized): 57192.0566, Val R?: -268150.5312
+
+Epoch 12/50
+  Train Loss: 231.8584, Train MSE: 231.8584, Train MAE: 11.6717
+  Val Loss: 199.0032, Val MSE (Normalized): 199.0032, Val MAE (Normalized): 11.6476
+  Val MSE (Denormalized): 8176665344.0000, Val MAE (Denormalized): 74661.4023, Val R?: -275442.5000
+
+Epoch 13/50
+  Train Loss: 150.7433, Train MSE: 150.7433, Train MAE: 9.5760
+  Val Loss: 126.2844, Val MSE (Normalized): 126.2844, Val MAE (Normalized): 9.1054
+  Val MSE (Denormalized): 5188787200.0000, Val MAE (Denormalized): 58365.4062, Val R?: -218727.2031
+
+Epoch 14/50
+  Train Loss: 138.0004, Train MSE: 138.0004, Train MAE: 9.1024
+  Val Loss: 157.7233, Val MSE (Normalized): 157.7233, Val MAE (Normalized): 10.3066
+  Val MSE (Denormalized): 6480548864.0000, Val MAE (Denormalized): 66065.5781, Val R?: -231241.9062
+
+Epoch 15/50
+  Train Loss: 109.9961, Train MSE: 109.9961, Train MAE: 8.2399
+  Val Loss: 119.1815, Val MSE (Normalized): 119.1815, Val MAE (Normalized): 8.8700
+  Val MSE (Denormalized): 4896943232.0000, Val MAE (Denormalized): 56856.7051, Val R?: -203908.6406
+
+Epoch 16/50
+  Train Loss: 90.3754, Train MSE: 90.3754, Train MAE: 7.3713
+  Val Loss: 142.0335, Val MSE (Normalized): 142.0335, Val MAE (Normalized): 9.8339
+  Val MSE (Denormalized): 5835887616.0000, Val MAE (Denormalized): 63035.3066, Val R?: -218203.6562
+
+Epoch 17/50
+  Train Loss: 86.7545, Train MSE: 86.7545, Train MAE: 7.3162
+  Val Loss: 133.0906, Val MSE (Normalized): 133.0906, Val MAE (Normalized): 9.5488
+  Val MSE (Denormalized): 5468441600.0000, Val MAE (Denormalized): 61207.5293, Val R?: -213771.9062
+
+Epoch 18/50
+  Train Loss: 70.6806, Train MSE: 70.6806, Train MAE: 6.3577
+  Val Loss: 130.5107, Val MSE (Normalized): 130.5107, Val MAE (Normalized): 9.4876
+  Val MSE (Denormalized): 5362435072.0000, Val MAE (Denormalized): 60815.8203, Val R?: -209740.6094
+
+Epoch 19/50
+  Train Loss: 61.3982, Train MSE: 61.3982, Train MAE: 6.2369
+  Val Loss: 131.4452, Val MSE (Normalized): 131.4452, Val MAE (Normalized): 9.6710
+  Val MSE (Denormalized): 5400833024.0000, Val MAE (Denormalized): 61991.3066, Val R?: -204248.2969
+
+Epoch 20/50
+  Train Loss: 56.3509, Train MSE: 56.3509, Train MAE: 5.8101
+  Val Loss: 129.4567, Val MSE (Normalized): 129.4567, Val MAE (Normalized): 9.6810
+  Val MSE (Denormalized): 5319128064.0000, Val MAE (Denormalized): 62055.0898, Val R?: -196353.4219
+
+Epoch 21/50
+  Train Loss: 52.9283, Train MSE: 52.9283, Train MAE: 5.6110
+  Val Loss: 128.4021, Val MSE (Normalized): 128.4021, Val MAE (Normalized): 9.5226
+  Val MSE (Denormalized): 5275800064.0000, Val MAE (Denormalized): 61039.7266, Val R?: -195473.5469
+
+Epoch 22/50
+  Train Loss: 53.0662, Train MSE: 53.0662, Train MAE: 5.7285
+  Val Loss: 159.9416, Val MSE (Normalized): 159.9416, Val MAE (Normalized): 10.5779
+  Val MSE (Denormalized): 6571697152.0000, Val MAE (Denormalized): 67804.4883, Val R?: -226192.7656
+
+Epoch 23/50
+  Train Loss: 47.4302, Train MSE: 47.4302, Train MAE: 5.4871
+  Val Loss: 128.1845, Val MSE (Normalized): 128.1845, Val MAE (Normalized): 9.0939
+  Val MSE (Denormalized): 5266857472.0000, Val MAE (Denormalized): 58292.0508, Val R?: -196587.4844
+
+Epoch 24/50
+  Train Loss: 48.1761, Train MSE: 48.1761, Train MAE: 5.3233
+  Val Loss: 148.3260, Val MSE (Normalized): 148.3260, Val MAE (Normalized): 10.1030
+  Val MSE (Denormalized): 6094434304.0000, Val MAE (Denormalized): 64760.4375, Val R?: -208791.8906
+
+Epoch 25/50
+  Train Loss: 38.2842, Train MSE: 38.2842, Train MAE: 4.8668
+  Val Loss: 126.7665, Val MSE (Normalized): 126.7665, Val MAE (Normalized): 9.1480
+  Val MSE (Denormalized): 5208596224.0000, Val MAE (Denormalized): 58638.6094, Val R?: -190074.2500
+
+Epoch 26/50
+  Train Loss: 36.5547, Train MSE: 36.5547, Train MAE: 4.8903
+  Val Loss: 136.0896, Val MSE (Normalized): 136.0896, Val MAE (Normalized): 9.7038
+  Val MSE (Denormalized): 5591664896.0000, Val MAE (Denormalized): 62201.6055, Val R?: -193690.0781
+
+Epoch 27/50
+  Train Loss: 29.3985, Train MSE: 29.3985, Train MAE: 4.3358
+  Val Loss: 126.8854, Val MSE (Normalized): 126.8854, Val MAE (Normalized): 9.4344
+  Val MSE (Denormalized): 5213479936.0000, Val MAE (Denormalized): 60474.5410, Val R?: -181971.6562
+
+Epoch 28/50
+  Train Loss: 28.8371, Train MSE: 28.8371, Train MAE: 4.2899
+  Val Loss: 136.9344, Val MSE (Normalized): 136.9344, Val MAE (Normalized): 9.6546
+  Val MSE (Denormalized): 5626373120.0000, Val MAE (Denormalized): 61886.1250, Val R?: -192170.2344
+
+Epoch 29/50
+  Train Loss: 29.1596, Train MSE: 29.1596, Train MAE: 4.2437
+  Val Loss: 122.9617, Val MSE (Normalized): 122.9617, Val MAE (Normalized): 8.9393
+  Val MSE (Denormalized): 5052261632.0000, Val MAE (Denormalized): 57300.7500, Val R?: -179350.3125
+
+Epoch 30/50
+  Train Loss: 27.8989, Train MSE: 27.8989, Train MAE: 4.2432
+  Val Loss: 124.2880, Val MSE (Normalized): 124.2880, Val MAE (Normalized): 9.1722
+  Val MSE (Denormalized): 5106757376.0000, Val MAE (Denormalized): 58793.8242, Val R?: -175866.0781
+
+Epoch 31/50
+  Train Loss: 27.2532, Train MSE: 27.2532, Train MAE: 4.2042
+  Val Loss: 136.9406, Val MSE (Normalized): 136.9406, Val MAE (Normalized): 9.5638
+  Val MSE (Denormalized): 5626630144.0000, Val MAE (Denormalized): 61304.1289, Val R?: -187147.7969
+
+Epoch 32/50
+  Train Loss: 22.2047, Train MSE: 22.2047, Train MAE: 3.7117
+  Val Loss: 120.5454, Val MSE (Normalized): 120.5454, Val MAE (Normalized): 8.9133
+  Val MSE (Denormalized): 4952981248.0000, Val MAE (Denormalized): 57134.2461, Val R?: -172084.5312
+
+Epoch 33/50
+  Train Loss: 20.0161, Train MSE: 20.0161, Train MAE: 3.6216
+  Val Loss: 126.3190, Val MSE (Normalized): 126.3190, Val MAE (Normalized): 9.1667
+  Val MSE (Denormalized): 5190204928.0000, Val MAE (Denormalized): 58758.4375, Val R?: -177537.8594
+
+Epoch 34/50
+  Train Loss: 18.9911, Train MSE: 18.9911, Train MAE: 3.5535
+  Val Loss: 121.2538, Val MSE (Normalized): 121.2538, Val MAE (Normalized): 8.9208
+  Val MSE (Denormalized): 4982086400.0000, Val MAE (Denormalized): 57182.2969, Val R?: -174023.1719
+
+Epoch 35/50
+  Train Loss: 18.3918, Train MSE: 18.3918, Train MAE: 3.3767
+  Val Loss: 116.5641, Val MSE (Normalized): 116.5641, Val MAE (Normalized): 8.5999
+  Val MSE (Denormalized): 4789399040.0000, Val MAE (Denormalized): 55125.1641, Val R?: -169782.7969
+
+Epoch 36/50
+  Train Loss: 19.0991, Train MSE: 19.0991, Train MAE: 3.4868
+  Val Loss: 135.8746, Val MSE (Normalized): 135.8746, Val MAE (Normalized): 9.4443
+  Val MSE (Denormalized): 5582828800.0000, Val MAE (Denormalized): 60538.1367, Val R?: -184181.2031
+
+Epoch 37/50
+  Train Loss: 18.8999, Train MSE: 18.8999, Train MAE: 3.4559
+  Val Loss: 115.2885, Val MSE (Normalized): 115.2885, Val MAE (Normalized): 8.5968
+  Val MSE (Denormalized): 4736985344.0000, Val MAE (Denormalized): 55105.5586, Val R?: -165427.1719
+
+Epoch 38/50
+  Train Loss: 16.0446, Train MSE: 16.0446, Train MAE: 3.2863
+  Val Loss: 115.6281, Val MSE (Normalized): 115.6281, Val MAE (Normalized): 8.5530
+  Val MSE (Denormalized): 4750939648.0000, Val MAE (Denormalized): 54824.5781, Val R?: -165673.3750
+
+Epoch 39/50
+  Train Loss: 16.3028, Train MSE: 16.3028, Train MAE: 3.2558
+  Val Loss: 130.6393, Val MSE (Normalized): 130.6393, Val MAE (Normalized): 9.2741
+  Val MSE (Denormalized): 5367721216.0000, Val MAE (Denormalized): 59446.6816, Val R?: -177084.3594
+
+Epoch 40/50
+  Train Loss: 15.5601, Train MSE: 15.5601, Train MAE: 2.9920
+  Val Loss: 117.7755, Val MSE (Normalized): 117.7755, Val MAE (Normalized): 8.7371
+  Val MSE (Denormalized): 4839171072.0000, Val MAE (Denormalized): 56005.0176, Val R?: -164664.7812
+
+Epoch 41/50
+  Train Loss: 14.1723, Train MSE: 14.1723, Train MAE: 2.9506
+  Val Loss: 114.8753, Val MSE (Normalized): 114.8753, Val MAE (Normalized): 8.4340
+  Val MSE (Denormalized): 4720006656.0000, Val MAE (Denormalized): 54061.7949, Val R?: -164189.9844
+
+Epoch 42/50
+  Train Loss: 15.2371, Train MSE: 15.2371, Train MAE: 2.9981
+  Val Loss: 127.9477, Val MSE (Normalized): 127.9477, Val MAE (Normalized): 9.0708
+  Val MSE (Denormalized): 5257126400.0000, Val MAE (Denormalized): 58143.8672, Val R?: -174381.4375
+
+Epoch 43/50
+  Train Loss: 11.9133, Train MSE: 11.9133, Train MAE: 2.6825
+  Val Loss: 117.6865, Val MSE (Normalized): 117.6865, Val MAE (Normalized): 8.5029
+  Val MSE (Denormalized): 4835515648.0000, Val MAE (Denormalized): 54503.7461, Val R?: -166916.3125
+
+Epoch 44/50
+  Train Loss: 10.8981, Train MSE: 10.8981, Train MAE: 2.6041
+  Val Loss: 116.8779, Val MSE (Normalized): 116.8779, Val MAE (Normalized): 8.6354
+  Val MSE (Denormalized): 4802291968.0000, Val MAE (Denormalized): 55352.7168, Val R?: -163523.1562
+
+Epoch 45/50
+  Train Loss: 10.3504, Train MSE: 10.3504, Train MAE: 2.5823
+  Val Loss: 117.8004, Val MSE (Normalized): 117.8004, Val MAE (Normalized): 8.6931
+  Val MSE (Denormalized): 4840195072.0000, Val MAE (Denormalized): 55722.9805, Val R?: -162352.7656
+
+Epoch 46/50
+  Train Loss: 8.8465, Train MSE: 8.8465, Train MAE: 2.3817
+  Val Loss: 119.3107, Val MSE (Normalized): 119.3107, Val MAE (Normalized): 8.5726
+  Val MSE (Denormalized): 4902250496.0000, Val MAE (Denormalized): 54950.1504, Val R?: -165610.1875
+
+Epoch 47/50
+  Train Loss: 8.7305, Train MSE: 8.7305, Train MAE: 2.3177
+  Val Loss: 113.2526, Val MSE (Normalized): 113.2526, Val MAE (Normalized): 8.3998
+  Val MSE (Denormalized): 4653335296.0000, Val MAE (Denormalized): 53842.7617, Val R?: -159362.4219
+
+Epoch 48/50
+  Train Loss: 9.0541, Train MSE: 9.0541, Train MAE: 2.3892
+  Val Loss: 116.4965, Val MSE (Normalized): 116.4965, Val MAE (Normalized): 8.5287
+  Val MSE (Denormalized): 4786618880.0000, Val MAE (Denormalized): 54668.8203, Val R?: -162582.2812
+
+Epoch 49/50
+  Train Loss: 7.5014, Train MSE: 7.5014, Train MAE: 2.1276
+  Val Loss: 117.5125, Val MSE (Normalized): 117.5125, Val MAE (Normalized): 8.5236
+  Val MSE (Denormalized): 4828365312.0000, Val MAE (Denormalized): 54636.3496, Val R?: -164259.4219
+
+Epoch 50/50
+  Train Loss: 7.8442, Train MSE: 7.8442, Train MAE: 2.1218
+  Val Loss: 113.6732, Val MSE (Normalized): 113.6732, Val MAE (Normalized): 8.4368
+  Val MSE (Denormalized): 4670616576.0000, Val MAE (Denormalized): 54079.6016, Val R?: -159226.2656
+
+Test Results
+  Test Loss: 121.0992
+  Test MSE (Normalized): 121.0992, Test MAE (Normalized): 8.9885
+  Test MSE (Denormalized): 4975737344.0000, Test MAE (Denormalized): 57616.5859
